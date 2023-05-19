@@ -148,6 +148,10 @@ footer {
         max-width: 1024px;
     
     }
+
+    .box3 {
+        display:none;
+    }
 }
 
 
